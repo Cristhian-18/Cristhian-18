@@ -24,7 +24,7 @@
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://github.com/Ileriayo/markdown-badges/blob/master/README.md#:~:text=https%3A//img.shields.io/badge/mysql%2D4479A1.svg%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3Dmysql%26logoColor%3Dwhite">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
 </span>
