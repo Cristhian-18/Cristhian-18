@@ -4,6 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+soy+Cristhian+Córdova!;Desarrollador+Backend+Junior,;Conocimientos+en+Frontend,;Apasionado+por+la+Seguridad+Informática,;Amante+de+las+Bases+de+Datos,;Siempre+aprendiendo+nuevas+tecnologías."></a>
 </p>
 
+Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <b>Welcome !! </b><br/>
@@ -18,7 +19,7 @@ Some things about me :<br/>
 :eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
 :nine: Fun fact : Have been developing softwares for most part of my life
 [![-----------------------------------------------------](
-
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## My Skills Include
 <h4> Languages </h4>  
