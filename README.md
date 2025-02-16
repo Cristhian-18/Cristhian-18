@@ -12,12 +12,10 @@ Some things about me :<br/>
 :one: Desarrollador Backend con conocimientos en Frontend.<br/>
 :two: Experiencia en la creación de APIs REST e integración con el frontend.<br/>
 :three: Proficiente en JavaScript (Angular), TypeScript, Node.js y PHP.<br/> 
-:four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
-:five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
-:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
-:seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
-:eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
-:nine: Fun fact : Have been developing softwares for most part of my life
+:four: Experto en bases de datos como PostgreSQL, MySQL y MongoDB.<br/>
+:five: Apasionado por el código limpio, la escalabilidad y la optimización del rendimiento.</a><br/> 
+:six: Actualmente trabajando en un asistente virtual académico utilizando OpenAI y Flask.<br/>
+:seven: Interesado en la innovación con aplicaciones impulsadas por IA y automatización backend.<br/>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
