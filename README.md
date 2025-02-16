@@ -7,8 +7,8 @@
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<b>Welcome !! </b><br/>
-Some things about me :<br/> 
+<b>¡Bienvenido/a! </b><br/>
+Algunas cosas sobre mí:<br/> 
 :one: Desarrollador Backend con conocimientos en Frontend.<br/>
 :two: Experiencia en la creación de APIs REST e integración con el frontend.<br/>
 :three: Conocimientos en JavaScript (Angular), TypeScript, Node.js y Python.<br/> 
