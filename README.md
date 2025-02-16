@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <a href="https://github.com/Cristhian-18">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cristhian-18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cristhian-18&layout=compact&langs_count=8&theme=algolia"/>
-  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Cristhian-18&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Cristhian-18&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </a>
 </p>
 
@@ -96,19 +96,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Cristhian-18&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
 
 
 [![-----------------------------------------------------](
