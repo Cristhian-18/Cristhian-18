@@ -4,6 +4,30 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+soy+Cristhian+Córdova!;Desarrollador+Backend+Junior,;Conocimientos+en+Frontend,;Apasionado+por+la+Seguridad+Informática,;Amante+de+las+Bases+de+Datos,;Siempre+aprendiendo+nuevas+tecnologías."></a>
 </p>
 
+<p>¿Quieres nominarme como <a href="https://stars.github.com/">GitHub Star</a>?  
+<a href="https://stars.github.com/nominate/">Hazlo aquí</a> (Mi usuario es: [TU_USUARIO])</p>  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divisor">  
+
+<b>¡Bienvenido/a!</b><br/>  
+Algunas cosas sobre mí:<br/>  
+🔹 Desarrollador Backend con conocimientos en Frontend.<br/>  
+🔹 Experiencia en la creación de APIs REST e integración con el frontend.<br/>  
+🔹 Manejo de JavaScript (Angular), TypeScript, Node.js y PHP.<br/>  
+🔹 Experto en gestión de bases de datos con PostgreSQL, MySQL y MongoDB.<br/>  
+🔹 Apasionado por el código limpio, la escalabilidad y la optimización del rendimiento.<br/>  
+🔹 Actualmente trabajando en un asistente virtual académico utilizando OpenAI y Flask.<br/>  
+🔹 Interesado en la innovación con aplicaciones impulsadas por IA y automatización backend.<br/>  
+🔹 ¿Quieres contactarme? Escríbeme a  
+<img src="https://chxo.com/labelgen/labelgen.php?textval=+TU_CORREO%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image"  
+alt="Correo">.<br/>  
+🔹 Pregúntame sobre desarrollo backend, APIs, bases de datos o IA:  
+<a href="https://github.com/TU_USUARIO/issues/new?assignees=&labels=question&template=custom.md&title=Pregunta%3A+%5BTu-Título%5D">aquí</a>.<br/>  
+🔹 Dato curioso: He estado desarrollando software durante gran parte de mi vida.<br/>  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divisor">  
+
+
 
 ## My Skills Include
 <h4> Languages </h4>  
