@@ -21,8 +21,6 @@
 
 
 </span>
-
-
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -30,9 +28,13 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-
-
 </span>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Cristhian-18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristhiancordova&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristhiancordova&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
