@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 Some things about me :<br/> 
 :one: Desarrollador Backend con conocimientos en Frontend.<br/>
 :two: Experiencia en la creación de APIs REST e integración con el frontend.<br/>
-:three: Proficiente en JavaScript (Angular), TypeScript, Node.js y PHP.<br/> 
-:four: Experto en bases de datos como PostgreSQL, MySQL y MongoDB.<br/>
+:three: Conocimientos en JavaScript (Angular), TypeScript, Node.js y Python.<br/> 
+:four: Conocimientos en bases de datos como PostgreSQL, MySQL, MongoDB, Firebase y Amazon DynamoDB.<br/>
 :five: Apasionado por el código limpio, la escalabilidad y la optimización del rendimiento.</a><br/> 
 :six: Actualmente trabajando en un asistente virtual académico utilizando OpenAI y Flask.<br/>
 :seven: Interesado en la innovación con aplicaciones impulsadas por IA y automatización backend.<br/>
