@@ -4,13 +4,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+soy+Cristhian+Córdova!;Desarrollador+Backend+Junior,;Conocimientos+en+Frontend,;Apasionado+por+la+Seguridad+Informática,;Amante+de+las+Bases+de+Datos,;Siempre+aprendiendo+nuevas+tecnologías."></a>
 </p>
 
+Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<b>¡Bienvenido/a!</b><br/>  
-Algunas cosas sobre mí:<br/>  
+<b>Welcome !! </b><br/>
+Some things about me :<br/> 
 :one: Desarrollador Backend con conocimientos en Frontend.<br/>
-:two: Full stack developer and IT professional with over 10 years of experience.<br/>
-:three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
+:two: Experiencia en la creación de APIs REST e integración con el frontend.<br/>
+:three: Proficiente en JavaScript (Angular), TypeScript, Node.js y PHP.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
 :five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
 :six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
