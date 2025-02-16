@@ -73,3 +73,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristhiancordova&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<hr>
+<p align="center">
+   <i>Contactos!!</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/cristhian-cordova-2a476a269/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:cordovacristhian32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>
